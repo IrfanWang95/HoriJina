@@ -21,7 +21,15 @@ DHT11 接Arduino A0
 继电器信号接Arduino 2
 
 ![接线原理图](https://github.com/IrfanWang95/HoriJina/blob/main/horijina.png?raw=true)
+## 4.代码说明
+### 4.1 包含的库
 
+    #include"DHT.h"
+ 
+   （如果在Arduino报错请点击“管理库”进行搜索下载）
+   
+    float humSet = 15.0;//湿度预设值，请在这里修改
+    
     
     
 **剩余的图片和说明会在即刻更新**
