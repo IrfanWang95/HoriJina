@@ -20,7 +20,7 @@
 DHT11 接Arduino A0
 继电器信号接Arduino 2
 
-![1b050d68b6caf43b6d3d5444684942ca.png](en-resource://database/503:1)
+![接线原理图](https://github.com/IrfanWang95/HoriJina/blob/main/horijina.png?raw=true)
 
     
     
