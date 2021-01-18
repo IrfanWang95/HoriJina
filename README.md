@@ -16,8 +16,8 @@
 3.在blinker客户端现在可以显示当前的温度和湿度
 3.在自动开始加湿时，可以通过blinker客户端上的开关开启或关闭加湿
 4.在加湿自动关闭时，暂时还不能通过开关开启或关闭，可通过降低加湿阈值使加湿功能自动开启
-![d73a494cd7440a9086b413ff2032fafd.jpeg](en-resource://database/605:1)
-![6ac201e40b0da3ee3b6737e285c31688.jpeg](en-resource://database/607:1)
+![整体照](https://github.com/IrfanWang95/HoriJina/blob/main/19991dd6366f2e9f7edb584434601c6.jpg?raw=true)
+![blinker客户端截图](https://github.com/IrfanWang95/HoriJina/blob/main/f70bc0d9850c985b2b4edb64cca74f8.jpg?raw=true)
 
  #### HoriJina 1.0
 * 温湿度模块检测环境温度和湿度。
